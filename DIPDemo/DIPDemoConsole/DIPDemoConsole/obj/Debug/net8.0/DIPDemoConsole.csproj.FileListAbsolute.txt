@@ -1,0 +1,14 @@
+D:\Practice\SOLID\DIPDemo\DIPDemoConsole\DIPDemoConsole\bin\Debug\net8.0\DIPDemoConsole.exe
+D:\Practice\SOLID\DIPDemo\DIPDemoConsole\DIPDemoConsole\bin\Debug\net8.0\DIPDemoConsole.deps.json
+D:\Practice\SOLID\DIPDemo\DIPDemoConsole\DIPDemoConsole\bin\Debug\net8.0\DIPDemoConsole.runtimeconfig.json
+D:\Practice\SOLID\DIPDemo\DIPDemoConsole\DIPDemoConsole\bin\Debug\net8.0\DIPDemoConsole.dll
+D:\Practice\SOLID\DIPDemo\DIPDemoConsole\DIPDemoConsole\bin\Debug\net8.0\DIPDemoConsole.pdb
+D:\Practice\SOLID\DIPDemo\DIPDemoConsole\DIPDemoConsole\obj\Debug\net8.0\DIPDemoConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\SOLID\DIPDemo\DIPDemoConsole\DIPDemoConsole\obj\Debug\net8.0\DIPDemoConsole.AssemblyInfoInputs.cache
+D:\Practice\SOLID\DIPDemo\DIPDemoConsole\DIPDemoConsole\obj\Debug\net8.0\DIPDemoConsole.AssemblyInfo.cs
+D:\Practice\SOLID\DIPDemo\DIPDemoConsole\DIPDemoConsole\obj\Debug\net8.0\DIPDemoConsole.csproj.CoreCompileInputs.cache
+D:\Practice\SOLID\DIPDemo\DIPDemoConsole\DIPDemoConsole\obj\Debug\net8.0\DIPDemoConsole.dll
+D:\Practice\SOLID\DIPDemo\DIPDemoConsole\DIPDemoConsole\obj\Debug\net8.0\refint\DIPDemoConsole.dll
+D:\Practice\SOLID\DIPDemo\DIPDemoConsole\DIPDemoConsole\obj\Debug\net8.0\DIPDemoConsole.pdb
+D:\Practice\SOLID\DIPDemo\DIPDemoConsole\DIPDemoConsole\obj\Debug\net8.0\DIPDemoConsole.genruntimeconfig.cache
+D:\Practice\SOLID\DIPDemo\DIPDemoConsole\DIPDemoConsole\obj\Debug\net8.0\ref\DIPDemoConsole.dll
