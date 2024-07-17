@@ -1,0 +1,14 @@
+D:\Practice\SOLID\LSPDemo\LSPDemoConsole\LSPDemoConsole\bin\Debug\net8.0\LSPDemoConsole.exe
+D:\Practice\SOLID\LSPDemo\LSPDemoConsole\LSPDemoConsole\bin\Debug\net8.0\LSPDemoConsole.deps.json
+D:\Practice\SOLID\LSPDemo\LSPDemoConsole\LSPDemoConsole\bin\Debug\net8.0\LSPDemoConsole.runtimeconfig.json
+D:\Practice\SOLID\LSPDemo\LSPDemoConsole\LSPDemoConsole\bin\Debug\net8.0\LSPDemoConsole.dll
+D:\Practice\SOLID\LSPDemo\LSPDemoConsole\LSPDemoConsole\bin\Debug\net8.0\LSPDemoConsole.pdb
+D:\Practice\SOLID\LSPDemo\LSPDemoConsole\LSPDemoConsole\obj\Debug\net8.0\LSPDemoConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\SOLID\LSPDemo\LSPDemoConsole\LSPDemoConsole\obj\Debug\net8.0\LSPDemoConsole.AssemblyInfoInputs.cache
+D:\Practice\SOLID\LSPDemo\LSPDemoConsole\LSPDemoConsole\obj\Debug\net8.0\LSPDemoConsole.AssemblyInfo.cs
+D:\Practice\SOLID\LSPDemo\LSPDemoConsole\LSPDemoConsole\obj\Debug\net8.0\LSPDemoConsole.csproj.CoreCompileInputs.cache
+D:\Practice\SOLID\LSPDemo\LSPDemoConsole\LSPDemoConsole\obj\Debug\net8.0\LSPDemoConsole.dll
+D:\Practice\SOLID\LSPDemo\LSPDemoConsole\LSPDemoConsole\obj\Debug\net8.0\refint\LSPDemoConsole.dll
+D:\Practice\SOLID\LSPDemo\LSPDemoConsole\LSPDemoConsole\obj\Debug\net8.0\LSPDemoConsole.pdb
+D:\Practice\SOLID\LSPDemo\LSPDemoConsole\LSPDemoConsole\obj\Debug\net8.0\LSPDemoConsole.genruntimeconfig.cache
+D:\Practice\SOLID\LSPDemo\LSPDemoConsole\LSPDemoConsole\obj\Debug\net8.0\ref\LSPDemoConsole.dll
