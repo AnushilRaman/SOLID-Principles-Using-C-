@@ -1,0 +1,14 @@
+D:\Practice\SOLID\ISPDemo\ISPDemoConsoleApp\ISPDemoConsoleApp\bin\Debug\net8.0\ISPDemoConsoleApp.exe
+D:\Practice\SOLID\ISPDemo\ISPDemoConsoleApp\ISPDemoConsoleApp\bin\Debug\net8.0\ISPDemoConsoleApp.deps.json
+D:\Practice\SOLID\ISPDemo\ISPDemoConsoleApp\ISPDemoConsoleApp\bin\Debug\net8.0\ISPDemoConsoleApp.runtimeconfig.json
+D:\Practice\SOLID\ISPDemo\ISPDemoConsoleApp\ISPDemoConsoleApp\bin\Debug\net8.0\ISPDemoConsoleApp.dll
+D:\Practice\SOLID\ISPDemo\ISPDemoConsoleApp\ISPDemoConsoleApp\bin\Debug\net8.0\ISPDemoConsoleApp.pdb
+D:\Practice\SOLID\ISPDemo\ISPDemoConsoleApp\ISPDemoConsoleApp\obj\Debug\net8.0\ISPDemoConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\SOLID\ISPDemo\ISPDemoConsoleApp\ISPDemoConsoleApp\obj\Debug\net8.0\ISPDemoConsoleApp.AssemblyInfoInputs.cache
+D:\Practice\SOLID\ISPDemo\ISPDemoConsoleApp\ISPDemoConsoleApp\obj\Debug\net8.0\ISPDemoConsoleApp.AssemblyInfo.cs
+D:\Practice\SOLID\ISPDemo\ISPDemoConsoleApp\ISPDemoConsoleApp\obj\Debug\net8.0\ISPDemoConsoleApp.csproj.CoreCompileInputs.cache
+D:\Practice\SOLID\ISPDemo\ISPDemoConsoleApp\ISPDemoConsoleApp\obj\Debug\net8.0\ISPDemoConsoleApp.dll
+D:\Practice\SOLID\ISPDemo\ISPDemoConsoleApp\ISPDemoConsoleApp\obj\Debug\net8.0\refint\ISPDemoConsoleApp.dll
+D:\Practice\SOLID\ISPDemo\ISPDemoConsoleApp\ISPDemoConsoleApp\obj\Debug\net8.0\ISPDemoConsoleApp.pdb
+D:\Practice\SOLID\ISPDemo\ISPDemoConsoleApp\ISPDemoConsoleApp\obj\Debug\net8.0\ISPDemoConsoleApp.genruntimeconfig.cache
+D:\Practice\SOLID\ISPDemo\ISPDemoConsoleApp\ISPDemoConsoleApp\obj\Debug\net8.0\ref\ISPDemoConsoleApp.dll
