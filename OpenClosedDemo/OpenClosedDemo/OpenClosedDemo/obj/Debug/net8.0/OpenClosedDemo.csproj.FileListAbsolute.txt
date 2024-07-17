@@ -1,0 +1,14 @@
+D:\Practice\SOLID\OpenClosedDemo\OpenClosedDemo\OpenClosedDemo\bin\Debug\net8.0\OpenClosedDemo.exe
+D:\Practice\SOLID\OpenClosedDemo\OpenClosedDemo\OpenClosedDemo\bin\Debug\net8.0\OpenClosedDemo.deps.json
+D:\Practice\SOLID\OpenClosedDemo\OpenClosedDemo\OpenClosedDemo\bin\Debug\net8.0\OpenClosedDemo.runtimeconfig.json
+D:\Practice\SOLID\OpenClosedDemo\OpenClosedDemo\OpenClosedDemo\bin\Debug\net8.0\OpenClosedDemo.dll
+D:\Practice\SOLID\OpenClosedDemo\OpenClosedDemo\OpenClosedDemo\bin\Debug\net8.0\OpenClosedDemo.pdb
+D:\Practice\SOLID\OpenClosedDemo\OpenClosedDemo\OpenClosedDemo\obj\Debug\net8.0\OpenClosedDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\SOLID\OpenClosedDemo\OpenClosedDemo\OpenClosedDemo\obj\Debug\net8.0\OpenClosedDemo.AssemblyInfoInputs.cache
+D:\Practice\SOLID\OpenClosedDemo\OpenClosedDemo\OpenClosedDemo\obj\Debug\net8.0\OpenClosedDemo.AssemblyInfo.cs
+D:\Practice\SOLID\OpenClosedDemo\OpenClosedDemo\OpenClosedDemo\obj\Debug\net8.0\OpenClosedDemo.csproj.CoreCompileInputs.cache
+D:\Practice\SOLID\OpenClosedDemo\OpenClosedDemo\OpenClosedDemo\obj\Debug\net8.0\OpenClosedDemo.dll
+D:\Practice\SOLID\OpenClosedDemo\OpenClosedDemo\OpenClosedDemo\obj\Debug\net8.0\refint\OpenClosedDemo.dll
+D:\Practice\SOLID\OpenClosedDemo\OpenClosedDemo\OpenClosedDemo\obj\Debug\net8.0\OpenClosedDemo.pdb
+D:\Practice\SOLID\OpenClosedDemo\OpenClosedDemo\OpenClosedDemo\obj\Debug\net8.0\OpenClosedDemo.genruntimeconfig.cache
+D:\Practice\SOLID\OpenClosedDemo\OpenClosedDemo\OpenClosedDemo\obj\Debug\net8.0\ref\OpenClosedDemo.dll
